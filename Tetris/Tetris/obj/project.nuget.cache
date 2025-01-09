@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQym/nc9K/o=",
+  "success": true,
+  "projectFilePath": "D:\\Etudes informatique\\projet-tetris-1\\tetris\\tetris\\Tetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayan.LAPTOP-T8QLEQTG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
