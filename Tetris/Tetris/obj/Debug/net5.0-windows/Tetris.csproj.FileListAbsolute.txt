@@ -56,6 +56,7 @@ D:\Etudes informatique\projet-tetris-1\tetris\tetris\obj\Debug\net5.0-windows\Te
 D:\Etudes informatique\projet-tetris-1\tetris\tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
 D:\Etudes informatique\projet-tetris-1\tetris\tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
 D:\Etudes informatique\projet-tetris-1\tetris\tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\Etudes informatique\projet-tetris-1\tetris\tetris\obj\Debug\net5.0-windows\Tetris.sourcelink.json
 D:\Etudes informatique\projet-tetris-1\tetris\tetris\obj\Debug\net5.0-windows\Tetris.dll
 D:\Etudes informatique\projet-tetris-1\tetris\tetris\obj\Debug\net5.0-windows\refint\Tetris.dll
 D:\Etudes informatique\projet-tetris-1\tetris\tetris\obj\Debug\net5.0-windows\Tetris.pdb
